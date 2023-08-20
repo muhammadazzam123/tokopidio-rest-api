@@ -1,14 +1,14 @@
 {
-  "name": "tokopakedi-play-rest-api",
+  "name": "tokopidio-rest-api",
   "version": "1.0.0",
-  "description": "Tokopakedi Play REST API",
+  "description": "Tokopidio REST API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Muhammad Fajri Riki",
+  "author": "Muhammad Azzam Izzuddin",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
